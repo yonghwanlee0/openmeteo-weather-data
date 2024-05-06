@@ -3,13 +3,13 @@
 reference
 https://pypi.org/project/openmeteo-requests/
 
-How to run:
+How to run Python Flask App:
 
 $ python weather_app.py
 
   * Running on http://127.0.0.1:5000
 
-Build the Docker image
+Build a Docker image
 
 $ docker build -t weather-app .
 
