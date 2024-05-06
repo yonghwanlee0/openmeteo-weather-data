@@ -18,3 +18,5 @@ Run a Docker container
 $ docker run -p 5000:5000 weather-app
 
 You should be able to access your Flask application by visiting http://localhost:5000 in your web browser.
+
+View a summary of image vulnerabilities and recommendations → docker scout quickview
